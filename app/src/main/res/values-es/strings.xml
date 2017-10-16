@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello_btn">Saludar</string>
+    <string name="intro_name">Introduce tu nombre</string>
+    <string name="response">Hola %s!!!</string>
+</resources>
